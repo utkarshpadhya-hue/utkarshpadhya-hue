@@ -181,7 +181,7 @@ Procurement and vendor management module covering the full purchase lifecycle: R
 | ISRO-Affiliated Hackathon | 🛰️ **Selected Participant** — Satellite radiation forecasting |
 | Marwadi Hackathon Intefily 3.0 | 🎯 Finalist |
 | IIITM Gwalior Hacksagon | 🎯 Finalist |
-| Code Nakshatra, TIIPS College, Delhi | ✅ Participant |
+| Code Nakshatra, TIIPS College, Delhi | 🎯 Finalist |
 | Inter-College Badminton Tournament | 🏆 Winner |
 
 <br/>
