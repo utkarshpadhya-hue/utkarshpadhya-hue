@@ -227,5 +227,5 @@ Procurement and vendor management module covering the full purchase lifecycle: R
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 
 <i>Thanks for stopping by — let's build something great together 🚀</i>
-
+..
 </div>
