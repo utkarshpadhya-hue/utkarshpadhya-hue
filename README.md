@@ -93,6 +93,7 @@ fun_fact: "Won my first hackathon by turning sign language into speech in real t
 <img src="https://github-profile-trophy.vercel.app/?username=utkarshpadhya-hue&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </div>
 
+--
 </details>
 
 <div align="center">
