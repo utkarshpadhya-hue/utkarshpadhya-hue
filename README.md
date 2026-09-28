@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=680&height=90&lines=Final-Year+Computer+Engineering+Student;Winner+%40+Impacthon+Hackathon+2026;Full+Stack+Developer+%7C+React+%C2%B7+.NET+%C2%B7+MongoDB" alt="Typing SVG" />
 </a>
 
+  
 <br/>
 
 <a href="https://3d-portfolio-dwxg97evw-utkarsh-padhya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -214,7 +215,7 @@ Procurement and vendor management module covering the full purchase lifecycle: R
 <a href="mailto:utkarshpadhya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://3d-portfolio-dwxg97evw-utkarsh-padhya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-
+--
 </div>
 
 <br/>
